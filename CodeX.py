@@ -27,7 +27,7 @@ import discord
 from discord import Spotify
 from discord.ext import commands, tasks
 
-from core import Context
+from bot.core import Context
 from core.Cog import Cog
 from core.zyrox import zyrox
 from utils.Tools import *
